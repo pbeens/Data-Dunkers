@@ -29,11 +29,11 @@ This may be a suitable order to do the activities. Adjust accordingly, depending
         * Basic Python syntax
         * How to run code in a code cell
  2. Input
-      1. [Getting Data from within the notebook](Demos/where-can-we-get-data-from-internal.ipynb)
-      2. [Getting Data from a CSV file](Demos/where-can-we-get-data-from-csv.ipynb)
-      3. [Getting Data from an Excel file](Demos/where-can-we-get-data-from-excel.ipynb)
-      4. [Getting Data from a webpage](Demos/where-can-we-get-data-from-webpage.ipynb)
-      5. [Getting Data from a Google Sheet](Demos/where-can-we-get-data-from-google-sheet.ipynb)
+    1. [Getting Data from within the notebook](Demos/where-can-we-get-data-from-internal.ipynb)
+    2. [Getting Data from a CSV file](Demos/where-can-we-get-data-from-csv.ipynb)
+    3. [Getting Data from an Excel file](Demos/where-can-we-get-data-from-excel.ipynb)
+    4. [Getting Data from a webpage](Demos/where-can-we-get-data-from-webpage.ipynb)
+    5. [Getting Data from a Google Sheet](Demos/where-can-we-get-data-from-google-sheet.ipynb)
 3. Process
    1. TBD
 4. Output (Plotting)
