@@ -20,7 +20,9 @@ When you open the notebook in Callysto, it uploads the *entire repository*, allo
 
 # Lesson Suggestions
 
-This may be a suitable order to do the activities. Adjust accordingly, depending on your needs or time limits.
+The lessons have been designed to be done in this order, but you may wish to adapt the order, depending on your needs or time limits.
+
+## Jupyter Notebooks - Intro
 
 1. [Demo: Jupyter Notebooks](Demos/jupyter-notebook-demo.ipynb)
    * Basics of Markdown
@@ -28,13 +30,19 @@ This may be a suitable order to do the activities. Adjust accordingly, depending
    * Class Activity: [hello-world](Activities/hello-world.ipynb)
         * Basic Python syntax
         * How to run code in a code cell
- 2. Input
-    1. [Getting Data from within the notebook](Demos/where-can-we-get-data-from-internal.ipynb)
-    2. [Getting Data from a CSV file](Demos/where-can-we-get-data-from-csv.ipynb)
-    3. [Getting Data from an Excel file](Demos/where-can-we-get-data-from-excel.ipynb)
-    4. [Getting Data from a webpage](Demos/where-can-we-get-data-from-webpage.ipynb)
-    5. [Getting Data from a Google Sheet](Demos/where-can-we-get-data-from-google-sheet.ipynb)
-3. Process
-   1. TBD
-4. Output (Plotting)
-   1. TBD
+
+## Getting the Data (Input Stage)
+
+1. [Getting Data from within the notebook](Demos/where-can-we-get-data-from-internal.ipynb)
+2. [Getting Data from a CSV file](Demos/where-can-we-get-data-from-csv.ipynb)
+3. [Getting Data from an Excel file](Demos/where-can-we-get-data-from-excel.ipynb)
+4. [Getting Data from a webpage](Demos/where-can-we-get-data-from-webpage.ipynb)
+5. [Getting Data from a Google Sheet](Demos/where-can-we-get-data-from-google-sheet.ipynb)
+
+## Processing the Data (Process Stage)
+
+1. Coming Soon
+
+## plotting the Data (Output Stage)
+
+1. Coming Soon
