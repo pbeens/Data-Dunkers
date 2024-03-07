@@ -28,3 +28,4 @@ This may be a suitable order to do the activities. Adjust accordingly, depending
    * Class Activity: [hello-world](Activities/hello-world.ipynb)
         * Basic Python syntax
         * How to run code in a code cell
+1. [Getting Data from within the notebook](Demos/where-can-we-get-data-from-internal.ipynb)
