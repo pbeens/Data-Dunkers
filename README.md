@@ -1,4 +1,30 @@
-# Data Dunkers
- Data Dunkers - Using Basketball Stats to Learn Data Science
+# Data Dunkers - Using Basketball Stats to Learn Data Science
 
- This repository has been extracted from my initial Data Analysis repository found [here]([LICENSE.md](https://github.com/pbeens/Data-Analysis)). If you are looking for previous content (such as presentations prior to December 2023) then please visit that repository.
+*This repository has been extracted from my initial Data Analysis repository found [here](https://github.com/pbeens/Data-Analysis). If you are looking for previous content (such as presentations prior to December 2023), please visit that repository.*
+
+# Credit
+
+Many of the resources found or mentioned here are built upon the tutorials found at [github.com/callysto/basketball-and-data-science](https://github.com/callysto/basketball-and-data-science), used with permission.
+
+# Where to Start - Workshop
+
+If you are doing these activities as part of a workshop, you can use this [Google Slides presentation](https://bit.ly/dd-slides) as a starting point. Simply make a copy of the entire slideshow and then delete or modify slides as necessary.
+
+# Colab vs Callysto
+
+Many of the notebooks include links to Colab and Callysto. Your choice will depend on your specific situation. If your school district blocks or has not enabled Colab, Callysto should work for you.
+
+When you open the notebook in Colab, it uploads *just that notebook*, allowing you to edit and/or run it there. Local links (such as back to the main page) will **not** work, so a link to the page in the repository will also be available for you.
+
+When you open the notebook in Callysto, it uploads the *entire repository*, allowing you to edit and/or run it there. Local links (such as back to the main page) will work.
+
+# Lesson Suggestions
+
+This may be a suitable order to do the activities. Adjust accordingly, depending on your needs or time limits.
+
+1. [Demo: Jupyter Notebooks](Demos/jupyter-notebook-demo.ipynb)
+   * Basics of Markdown
+   * Code Cells vs Markdown Cells (Pay attention to "Hello world" example program!) 
+   * Class Activity: [hello-world](Activities/hello-world.ipynb)
+        * Basic Python syntax
+        * How to run code in a code cell
