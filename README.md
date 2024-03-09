@@ -14,9 +14,11 @@ If you are doing these activities as part of a workshop, you can use this [Googl
 
 Many of the notebooks include links to [Colab](https://colab.research.google.com/) and [Callysto](https://hub.callysto.ca/). Your choice will depend on your specific situation. If your school district blocks or has not enabled Colab, Callysto should work for you.
 
-When you open the notebook in Colab, it uploads *just that notebook*, allowing you to edit and/or run it there. Local links (such as back to the main page) will **not** work, so a link to the page in the repository will also be available for you. Always choose this if you are in Colab.
+## Important!
 
-When you open the notebook in Callysto, it uploads the *entire repository*, allowing you to edit and/or run it there. Local links (such as back to the main page) will work. Links back to the repository will also work. 
+When you open the notebook in *Colab*, it uploads *just that notebook*, allowing you to edit and/or run it there. Local links (such as back to the main page) will **not** work, so a link to the page in the repository will also be available for you. Always choose this if you are in Colab.
+
+When you open the notebook in *Callysto*, it uploads the *entire repository*, allowing you to edit and/or run it there. Local links (such as back to the main page) will work. Links back to the repository will also work. 
 
 # Lesson Suggestions
 
