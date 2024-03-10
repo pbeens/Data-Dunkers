@@ -6,7 +6,7 @@
 
 Many of the resources found or mentioned here are built upon the tutorials found at [github.com/callysto/basketball-and-data-science](https://github.com/callysto/basketball-and-data-science), used with permission.
 
-# Where to Start - Workshop
+# Workshop Slides
 
 If you are doing these activities as part of a workshop, you can use this [Google Slides presentation](https://bit.ly/dd-slides) as a starting point. Simply make a copy of the entire slideshow and then delete or modify slides as necessary.
 
@@ -32,6 +32,8 @@ The lessons have been designed to be done in this order, but you may wish to ada
    * Class Activity: [hello-world](Activities/hello-world.ipynb)
         * Basic Python syntax
         * How to run code in a code cell
+
+*Note: An overview guide to this demo is available in [Markdown](Demos/jupyter-notebook-demo-guide.md), [HTML](Demos/jupyter-notebook-demo-guide.html), and [Word](Demos/jupyter-notebook-demo-guide.docx) formats.*
 
 ## Getting the Data (Input Stage)
 
