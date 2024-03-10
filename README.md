@@ -33,7 +33,7 @@ The lessons have been designed to be done in this order, but you may wish to ada
         * Basic Python syntax
         * How to run code in a code cell
 
-*Note: An overview guide to this demo is available in [Markdown](Demos/jupyter-notebook-demo-guide.md), [HTML]([Demos/jupyter-notebook-demo-guide.html](https://html-preview.github.io/?url=https://github.com/pbeens/Data-Dunkers/blob/main/Demos/jupyter-notebook-demo-guide.html)), and [Word](Demos/jupyter-notebook-demo-guide.docx) formats.*
+*Note: An overview guide to this demo is available in [Markdown](Demos/jupyter-notebook-demo-guide.md), [HTML](https://html-preview.github.io/?url=https://github.com/pbeens/Data-Dunkers/blob/main/Demos/jupyter-notebook-demo-guide.html), and [Word](Demos/jupyter-notebook-demo-guide.docx) formats.*
 
 ## Getting the Data (Input Stage)
 
