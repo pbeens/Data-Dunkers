@@ -1,5 +1,5 @@
 
-# Guide to Getting Data from Within the Jupyter Notebook or .py File 
+# Getting Data from Within the Jupyter Notebook or .py File (Teacher's Guide)
 
 ## Table of Contents
 - [Chapter 1: Understanding the IPO Model](#chapter-1-understanding-the-ipo-model)
