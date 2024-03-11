@@ -1,4 +1,4 @@
-# Jupyter Notebook — Demo Guide
+# Jupyter Notebook — Demo (Teacher's Guide)
 
 This comprehensive guide serves as a companion to the [Jupyter Notebook Demo](https://github.com/pbeens/Data-Dunkers/blob/main/Demos/jupyter-notebook-demo.ipynb), designed to introduce users to the rich functionalities of Jupyter Notebooks. Jupyter Notebooks offer an interactive computing environment where users can combine live code, equations, visualizations, and narrative text in a single document. Whether you are a data scientist, researcher, educator, or hobbyist, this guide aims to provide you with a thorough understanding of how to leverage Jupyter Notebooks for your projects.
 
