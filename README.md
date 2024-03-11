@@ -37,7 +37,8 @@ The lessons have been designed to be done in this order, but you may wish to ada
 
 ## Getting the Data (Input Stage)
 
-1. [Getting Data from within the notebook](Demos/where-can-we-get-data-from-internal.ipynb) | [Teacher's Guide](Demos/Guides/where-can-we-get-data-from-internal-guide.md) | [Teacher's Guide (PDF)](Demos/Guides/jupyter-notebook-demo-guide.pdf)
+1. [Getting Data from within the notebook](Demos/where-can-we-get-data-from-internal.ipynb) 
+   * [Teacher's Guide](Demos/Guides/where-can-we-get-data-from-internal-guide.md) | [Teacher's Guide (PDF)](Demos/Guides/jupyter-notebook-demo-guide.pdf)
 2. [Getting Data from a CSV file](Demos/where-can-we-get-data-from-csv.ipynb)
 3. [Getting Data from an Excel file](Demos/where-can-we-get-data-from-excel.ipynb)
 4. [Getting Data from a webpage](Demos/where-can-we-get-data-from-webpage.ipynb)
