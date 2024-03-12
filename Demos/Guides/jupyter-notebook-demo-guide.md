@@ -111,8 +111,8 @@ You can align text in the columns to the left, right, or center by including col
 ```markdown
 | Left Aligned  | Center Aligned  | Right Aligned |
 |:--------------|:---------------:|--------------:|
-| Text          | Text            | Text          |
-| More text     | More text       | More text     |
+| Text | Text | Text |
+| More text     | More text | More text     |
 ```
 
 This Markdown code creates a table with three columns, each demonstrating a different text alignment.
