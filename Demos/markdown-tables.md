@@ -19,22 +19,22 @@ You can also use colons to align the columns. For example:
 ```
 | Left-aligned | Center-aligned | Right-aligned |
 | :----------- | :------------: | ------------: |
-| This         |     This       |          This |
-| column       |    column      |        column |
-| will         |      will      |          will |
-| be           |        be      |            be |
-| left-aligned |   center-aligned |   right-aligned |
+| This | This | This |
+| column | column | column |
+| will | will | will |
+| be | be | be |
+| left-aligned | center-aligned | right-aligned |
 ```
 
 This will create a table that looks like this:
 
 | Left-aligned | Center-aligned | Right-aligned |
 | :----------- | :------------: | ------------: |
-| This         |     This       |          This |
-| column       |    column      |        column |
-| will         |      will      |          will |
-| be           |        be      |            be |
-| left-aligned |   center-aligned |   right-aligned |
+| This | This | This |
+| column | column | column |
+| will | will | will |
+| be | be | be |
+| left-aligned | center-aligned | right-aligned |
 
 Source: Conversation with Bing, 2023-07-02
 
