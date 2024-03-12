@@ -2,7 +2,7 @@
 
 This guide is intended to accompany the [01-01-columns](https://github.com/pbeens/Data-Dunkers/blob/main/Demos/01-01-columns.ipynb) demo and exercise. The purpose of the lesson is to learn how to import a "Comma Separated Values" (CSV) file of Pascal Siakam career statistics and perform some first looks at the data.
 
-Eventually this information will get used to create a plot similar to this:
+Eventually this information will get used to create a plot similar to this: 
 
 ![Example Plot](../../Images/Example_Plot.png)
 
