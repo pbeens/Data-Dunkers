@@ -31,8 +31,8 @@ The lessons have been designed to be done in this order, but you may wish to ada
 
 ## Plotting the Data (Output Stage)
 
-1. [soon...](Demos/02-01-bar-graphs.ipynb)
-2. [soon...](Demos/02-02-scatter-plots.ipynb)
+1. [Bar Graphs](Demos/02-01-bar-graphs.ipynb)
+2. [Scatter Plots](Demos/02-02-scatter-plots.ipynb)
 3. [soon...](Demos/02-03-pie-charts.ipynb)
 4. [soon...](Demos/03-01-histograms.ipynb)
 5. [soon...](Demos/03-02-statistics.ipynb)
