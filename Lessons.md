@@ -27,7 +27,7 @@ The lessons have been designed to be done in this order, but you may wish to ada
 1. [Playing with Columns](Demos/01-01-columns.ipynb)
 2. [Filtering Our Data](Demos/01-02-filtering-data.ipynb)
 3. [Sorting Our Data](Demos/01-03-sorting-data.ipynb)
-4. [soon...](Demos/03-03-new-columns.ipynb)
+4. [Adding New Columns](Demos/03-03-new-columns.ipynb)
 
 ## Plotting the Data (Output Stage)
 
