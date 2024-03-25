@@ -1,6 +1,6 @@
 # Data Dunkers - Using Basketball Stats to Learn Data Science
 
-*This repository has been extracted from my initial Data Analysis repository found [here](https://github.com/pbeens/Data-Analysis). If you are looking for previous content (such as presentations prior to December 2023), please visit that repository.*
+*This repository has been extracted from my Data Analysis repository found [here](https://github.com/pbeens/Data-Analysis). If you are looking for previous content (such as presentations prior to December 2023), please visit that repository.*
 
 ## Credit
 
