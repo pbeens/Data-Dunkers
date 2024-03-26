@@ -12,7 +12,7 @@ If you are doing these activities as part of a workshop, you can use this [Googl
 
 ## Lessons
 
-See [this document](Lessons.md) for the list of suggested lessons.
+See [this document](Lessons.ipynb) for the list of suggested lessons.
 
 ## Colab vs Callysto
 
