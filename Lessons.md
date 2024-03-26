@@ -24,15 +24,15 @@ The lessons have been designed to be done in this order, but you may wish to ada
 
 ## Processing the Data (Process Stage)
 
-1. [Playing with Columns](Demos/01-01-columns.ipynb)
-2. [Filtering Our Data](Demos/01-02-filtering-data.ipynb)
-3. [Sorting Our Data](Demos/01-03-sorting-data.ipynb)
-4. [Adding New Columns](Demos/03-03-new-columns.ipynb)
+1. [Playing with Columns](Demos/columns.ipynb)
+2. [Filtering Our Data](Demos/filtering-data.ipynb)
+3. [Sorting Our Data](Demos/sorting-data.ipynb)
+4. [Adding New Columns](Demos/new-columns.ipynb)
 
 ## Plotting the Data (Output Stage)
 
-1. [Bar Graphs](Demos/02-01-bar-graphs.ipynb)
-2. [Scatter Plots](Demos/02-02-scatter-plots.ipynb)
-3. [Pie Charts](Demos/02-03-pie-charts.ipynb)
-4. [Histograms](Demos/03-01-histograms.ipynb)
-5. [soon...](Demos/03-02-statistics.ipynb)
+1. [Bar Graphs](Demos/bar-graphs.ipynb)
+2. [Scatter Plots](Demos/scatter-plots.ipynb)
+3. [Pie Charts](Demos/pie-charts.ipynb)
+4. [Histograms](Demos/histograms.ipynb)
+5. [Statistics](Demos/statistics.ipynb)
