@@ -1,10 +1,10 @@
 # Playing with Columns (Teacher Guide)
 
-This guide is intended to accompany the [01-01-columns](https://github.com/pbeens/Data-Dunkers/blob/main/Demos/01-01-columns.ipynb) demo and exercise. The purpose of the lesson is to learn how to import a "Comma Separated Values" (CSV) file of Pascal Siakam career statistics and perform some first looks at the data.
+This guide is intended to accompany the [columns](https://github.com/pbeens/Data-Dunkers/blob/main/Demos/columns.ipynb) demo and exercise. The purpose of the lesson is to learn how to import a "Comma Separated Values" (CSV) file of Pascal Siakam career statistics and perform some first looks at the data.
 
 Eventually this information will get used to create a plot similar to this: 
 
-![Example Plot](../../Images/Example_Plot.png)
+![Example Plot](https://raw.githubusercontent.com/pbeens/Data-Dunkers/49d88c03c410657830f60c2f349d6e44fd281390/Images/Example_Plot.png)
 
 - [Introduction](#introduction)
 - [Let's Get Our Data](#lets-get-our-data)
