@@ -1,4 +1,4 @@
-# CheatSheet.md
+# CheatSheet
 
 # Table of Contents
 - [Getting Data](#getting-data)
@@ -23,49 +23,71 @@
 
 ## CSV file
 
-![pd.read_csv()](Images/cheatsheet/read-csv.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/read-csv.png" alt="pd.read_csv()" width="45%">
+</div>
 
 ## Excel file
 
-![read_excel](Images/cheatsheet/read_excel.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/read_excel.png" alt="pd.read_excel()" width="95%">
+</div>
 
 ## Table on webpage
 
-![read_html](Images/cheatsheet/read_html.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/read_html.png" alt="pd.read_html()" width="90%">
+</div>
 
 ## Google Sheet
 
-![google sheet](Images/cheatsheet/google-sheet.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/google-sheet.png" alt="google sheet" width="90%">
+</div>
 
 # Thinking about the Data
 
 ## What columns are there?
 
-![columns](Images/cheatsheet/columns.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/columns.png" alt="columns" width="40%">
+</div>
 
 ## What's at the top of the data?
 
-![head()](Images/cheatsheet/head.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/head.png" alt="head()" width="40%">
+</div>
 
 ## What's at the bottom of the data?
 
-![tail()](Images/cheatsheet/tail.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/tail.png" alt="tail()" width="40%">
+</div>
 
 # Cleaning the data
 
 ## Deleting rows
 
-![df.drop()](Images/cheatsheet/drop.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/drop.png" alt="df.drop()" width="40%">
+</div>
 
 ## Fixing a multi-index
 
-![df.columns.map('_'.join)](Images/cheatsheet/multi-index-fix.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/multi-index-fix.png" alt="df.columns.map('_'.join)" width="75%">
+</div>
 
 ## Renaming Columns
 
-![Alt text](Images/cheatsheet/rename.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename.png" alt="rename columns" width="75%">
+</div>
 
-![Alt text](Images/cheatsheet/rename_2.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename_2.png" alt="rename columns" width="75%">
+</div>
 
 # Plotly Express
 
@@ -78,11 +100,15 @@ Here are some cheat sheets or tutorials that might also help you.
 
 ## Import the library
 
-![import plotly.express as px](Images/cheatsheet/import-plotly-express.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/import-plotly-express.png" alt="import plotly.express as px" width="75%">
+</div>
 
 ## Bar chart
 
-![fig = px.bar()](Images/cheatsheet/plotly-express-bar-chart.png)
+<div align="center">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/plotly-express-bar-chart.png" alt="fig = px.bar()" width="75%">
+</div>
 
 ## Comparison Operators
 
