@@ -76,17 +76,17 @@
 ## Fixing a multi-index
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/multi-index-fix.png" alt="df.columns.map('_'.join)" width="75%">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/multi-index-fix.png" alt="df.columns.map('_'.join)" width="70%">
 </div>
 
 ## Renaming Columns
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename.png" alt="rename columns" width="75%">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename.png" alt="rename columns" width="60%">
 </div>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename_2.png" alt="rename columns" width="75%">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/rename_2.png" alt="rename columns" width="70%">
 </div>
 
 # Plotly Express
@@ -101,7 +101,7 @@ Here are some cheat sheets or tutorials that might also help you.
 ## Import the library
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/import-plotly-express.png" alt="import plotly.express as px" width="75%">
+<img src="https://raw.githubusercontent.com/pbeens/Data-Dunkers/main/Images/cheatsheet/import-plotly-express.png" alt="import plotly.express as px" width="65%">
 </div>
 
 ## Bar chart
