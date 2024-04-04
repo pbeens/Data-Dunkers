@@ -18,3 +18,7 @@ See [this document]([Lessons.ipynb](https://github.com/pbeens/Data-Dunkers/blob/
 
 Many of the notebooks include links to [Colab](https://colab.research.google.com/) and [Callysto](https://hub.callysto.ca/). Your choice will depend on your specific situation. If your school district blocks or has not enabled Colab, Callysto should work for you. 
 
+## Cheatsheet
+
+We're including a comprehensive [cheatsheet](https://github.com/pbeens/Data-Dunkers/blob/main/cheatsheet.md) of code snippets that you may find valuable in helping you write your programs. 
+
