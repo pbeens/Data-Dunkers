@@ -12,7 +12,7 @@ If you are doing these activities as part of a workshop, you can use this [Googl
 
 ## Lessons
 
-See [this document]([Lessons.ipynb](https://github.com/pbeens/Data-Dunkers/blob/main/Lessons.ipynb)) for the list of suggested lessons.
+See [this document](https://github.com/pbeens/Data-Dunkers/blob/main/Lessons.ipynb) for the list of suggested lessons.
 
 ## Colab vs Callysto
 
