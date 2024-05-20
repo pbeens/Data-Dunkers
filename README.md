@@ -6,6 +6,8 @@
 
 If you are doing these activities as part of a workshop, you can use this [Google Slides presentation](https://bit.ly/dd-slides) as a starting point. Simply make a copy of the entire slideshow and then delete or modify slides as necessary.
 
+If you are doing the short form workshop that focuses on the Hoops activity, you can use this [Google Slides presentation](https://bit.ly/pbl-hoops) as a starting point.
+
 ## Lessons
 
 See [this document](https://github.com/pbeens/Data-Dunkers/blob/main/Lessons.ipynb) for the list of suggested lessons.
