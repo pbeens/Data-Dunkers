@@ -1,1 +1,0 @@
-Open utility notebook in [Colab](https://githubtocolab.com/pbeens/Data-Dunkers/blob/main/Data/wnba_team_stats.ipynb).
