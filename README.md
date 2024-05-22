@@ -23,3 +23,7 @@ We're including a comprehensive [cheatsheet](https://github.com/pbeens/Data-Dunk
 ## Credit
 
 Many of the resources found or mentioned here are built upon the tutorials found at [github.com/callysto/basketball-and-data-science](https://github.com/callysto/basketball-and-data-science), used with permission.
+
+## Quick Links 
+
+([Backup](https://docs.google.com/document/d/1y45a0CFM9awI000kiRR_eHZSpNiujWjeZuK6NmEHWx0/edit#heading=h.4327k57eu2sy))
