@@ -1,5 +1,9 @@
 # Data Dunkers - Using Basketball Stats to Learn Data Science
 
+**TDSB: Start [here](https://docs.google.com/presentation/d/1uX0CVyDeFsMPM8drjT2ErUy1iPa2LNWg13NxpEwt1Hw/edit#slide=id.p)!**
+
+---
+
 *This repository has been extracted from my Data Analysis repository found [here](https://github.com/pbeens/Data-Analysis). If you are looking for previous content (such as presentations prior to December 2023), please visit that repository.*
 
 ## Workshop Slides
