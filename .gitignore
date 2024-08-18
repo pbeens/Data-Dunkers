@@ -153,3 +153,4 @@ cython_debug/
 Private.md
 .vscode/extensions.json
 .DS_Store
+Demos/html/*
