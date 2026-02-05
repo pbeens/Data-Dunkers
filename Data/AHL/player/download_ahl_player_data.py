@@ -36,9 +36,11 @@ def main() -> None:
     moose_df.to_csv(moose_path, index=False)
 
     # Also include a filtered view from the league table (team code 'MTB')
-    filtered = league_df[league_df["Team"] == "MTB"]
-    filtered_path = OUTPUT_DIR / f"MB_Moose_player_stats_from_league_{SEASON_LABEL}.csv"
-    filtered.to_csv(filtered_path, index=False)
+    filtered = league_df[league_df["Team"].isin(["MTB", "MB", "MOO", "MAN", "MBM"])]
+    if not filtered.empty:
+        filtered_path = OUTPUT_DIR / f"MB_Moose_player_stats_from_league_{SEASON_LABEL}.csv"
+        filtered.to_csv(filtered_path, index=False)
+        print(f"Saved Moose players (filtered league) to {filtered_path}")
 
     # Build all-seasons Moose player stats from team pages, cached per season
     moose_rows = []
@@ -76,7 +78,6 @@ def main() -> None:
 
     print(f"Saved league players to {league_path}")
     print(f"Saved Moose players (team page) to {moose_path}")
-    print(f"Saved Moose players (filtered league) to {filtered_path}")
 
 
 if __name__ == "__main__":
