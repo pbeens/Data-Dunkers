@@ -14,7 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 # ----------------------
 # Configuration
 # ----------------------
-season_year = 2026        # Example: for 2025–26 season
+season_year = 2026        # Example: 2026 for 2025–26 season
 season_type = 2           # 2 = Regular Season on ESPN
 
 espn_team_slugs = [
@@ -48,6 +48,30 @@ def log_result(team_slug: str, year: int, season_type: int,
     with LOG_PATH.open("a", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow([team_slug, year, season_type, url, status, rows, message])
+
+
+# ----------------------
+# Parsing helpers
+# ----------------------
+def parse_name_field(name_value: str) -> tuple[str, str, bool]:
+    """
+    From a raw ESPN Name cell like 'PJ Hall C *', extract:
+    - clean_name: player name without position or trade asterisk
+    - position: final token (stripping parentheses)
+    - traded: True if the cell ends with an asterisk
+    """
+    if not isinstance(name_value, str):
+        return "", "", False
+
+    text = name_value.strip()
+    traded = text.endswith("*")
+    if traded:
+        text = text[:-1].rstrip()
+
+    tokens = text.split()
+    position = tokens[-1].strip("()") if tokens else ""
+    clean_name = " ".join(tokens[:-1]) if len(tokens) >= 2 else text
+    return clean_name, position, traded
 
 
 # ----------------------
@@ -94,6 +118,9 @@ def scrape_and_merge_team_stats(team_slug: str, driver,
         stats_merged = pd.concat(trimmed_stats, axis=1)
         full_df = pd.concat([names_df, stats_merged], axis=1)
         full_df = full_df.loc[:, ~full_df.columns.duplicated()]
+
+        # Derive Position and Traded flags from the Name column, and clean Name
+        full_df["Name"], full_df["Position"], full_df["Traded"] = zip(*full_df["Name"].apply(parse_name_field))
 
         # Correct season label
         season_label = f"{year-1}-{year}"
